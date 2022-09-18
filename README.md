@@ -11,6 +11,7 @@ Changes and additions
 APPLICATION URL
 
 file:///Users/hugorodriguez/Desktop/BOOTCAMP%20STUFF/MSU-VIRT-FSF-PT-09-2022-U-LOLC/01-HTML-Git-CSS/02-Challenge/Develop/index.html
+
 PREVIEW
 
 ![image](https://user-images.githubusercontent.com/111612523/190932260-998f3673-06c1-4608-84fd-d9364ce3a2dc.png)
